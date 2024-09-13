@@ -1,0 +1,35 @@
+body{
+    background: rgb(230, 179, 230);
+    font-family: "SUSE", sans-serif;
+    color: black ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button{
+    background:rgb(214, 196, 214);
+    color:black ;
+    font-family: "SUSE", sans-serif;
+
+}
+.passo.ativo{
+    display: block;
+}
+
+.passo{
+    display: none;
+}
+
+main{
+    max-width:40% ;
+    text-align:center ;
+
+}
+img{
+    max-width:90% ;
+
+}
